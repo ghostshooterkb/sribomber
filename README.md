@@ -9,7 +9,7 @@ apt install git python -y
 
 git clone https://github.com/mracid-devs/sribomber.git
 
-cd sribomb
+cd sribomber
 
 pip3 install -r requirements.txt
 
